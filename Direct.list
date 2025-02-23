@@ -1,6 +1,8 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
+SRC-IP-CIDR,192.168.50.92/32,DIRECT
+SRC-IP-CIDR,192.168.50.96/32,DIRECT
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
@@ -606,3 +608,8 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+DST-PORT,80
+DST-PORT,443
+DST-PORT,22
+SRC-PORT,51813
+SRC-PORT,37233
