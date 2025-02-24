@@ -1,7 +1,6 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,movie-pilot.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,telegram.org
