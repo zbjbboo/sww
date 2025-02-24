@@ -2,7 +2,11 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,movie-pilot.org
-
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
